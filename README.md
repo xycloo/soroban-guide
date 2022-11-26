@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/70587974/204095356-eb496766-8cbf-4334-81be-30fb1c0e515d.png" alt="logo" width="100" height="auto" />
+  <img src="./assets/logo.png" alt="logo" width="100" height="auto" />
   <h1>Soroban Guide</h1>
   
   <h4>
