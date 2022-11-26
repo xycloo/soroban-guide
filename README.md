@@ -32,8 +32,10 @@ This repository serves the purpose of grouping Xycloo's resources to learn Sorob
 - [Utility to build ed25519 signatures for a given keypair and use them on Futurenet.](https://github.com/xycloo/soroban-build-signatures)
 
 <br/>
-<hr/>
 
-### About Xycloo
+## Contributing
+If you have any smart contract ideas or write-ups ideas, we'd love to hear them: go ahead and simply open an issue for this repo.
+
+## About Xycloo
 We aim at becoming an important element of Stellar's, as well as Soroban's ecosystem. We are currently building on Stellar classic, but we are also prototyping on our local network some of the first DeFi protocols we indend to develop and deploy on Soroban. 
 (To stay updated on what we do, you can follow our Github page).
