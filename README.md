@@ -30,6 +30,8 @@ This repository serves the purpose of grouping Xycloo's resources to learn Sorob
 
 ## Tools
 - [Utility to build ed25519 signatures for a given keypair and use them on Futurenet.](https://github.com/xycloo/soroban-build-signatures)
+- [Soroban Explorer: crates to explore Futurenet.](https://github.com/xycloo/soroban-explorer).
+- [Soroban single-transaction explore: match and decode `InvokeHostFn` ops transactions.](https://tx-explorer.xycloo.com/)
 
 <br/>
 
