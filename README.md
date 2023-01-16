@@ -14,6 +14,7 @@
 ## About
 This repository serves the purpose of grouping Xycloo's resources to learn Soroban. Soroban is a smart contracts platform designed to work along with any transaction processor, specifically, it is being developed by the Stellar Development Foundation to interact with the Stellar blockchain.
 
+> Warning: these examples are not up to date with the recently released Soroban SDKs. That said, most of the code is still re-usable and a great resource to learn!
 
 ## Smart Contract Examples + Write-Ups
 - [Explaining and playing with Soroban events (in early development).](https://github.com/xycloo/soroban-events-guide)
